@@ -1,4 +1,4 @@
-**Table of content**
+**Table of contents**
 - [VSCode - Visual Studio Code](#vscode---visual-studio-code)
     - [VS Code Extensions](#vs-code-extensions)
     - [VS Code from the command line](#vs-code-from-the-command-line)
