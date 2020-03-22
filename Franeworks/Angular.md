@@ -1,4 +1,4 @@
-**Table of Contents:**
+**Table of content**
 
 - [Angular](#angular)
       - [Angular Material](#angular-material)
