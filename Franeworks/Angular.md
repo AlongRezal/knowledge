@@ -50,7 +50,8 @@
     - [Frameworks that are complimentary to Angular:](#frameworks-that-are-complimentary-to-angular)
       - [Ionic](#ionic)
     - [Angular add-ins and Libraries](#angular-add-ins-and-libraries)
-      - [ng-bootstrap - Angular powered Bootstrap](#ng-bootstrap---angular-powered-bootstrap)
+      - [ng-bootstrap - Angular powered Bootstrap (Bootstrap 4)](#ng-bootstrap---angular-powered-bootstrap-bootstrap-4)
+      - [ngx-bootstrap - Angular powered Bootstrap (Bootstrap 3/4)](#ngx-bootstrap---angular-powered-bootstrap-bootstrap-34)
     - [Angular and GraphQL](#angular-and-graphql)
     - [Angular Documentation Tools](#angular-documentation-tools)
     - [Angular Books, videos and Training](#angular-books-videos-and-training)
@@ -71,6 +72,7 @@
       - [Angular Components:](#angular-components-1)
     - [Angular Testing:](#angular-testing-1)
     - [Angular Tips and Best Practices:](#angular-tips-and-best-practices)
+    - [Angular Search](#angular-search)
 
 # Angular
 
@@ -118,6 +120,18 @@ https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d
 
 **Angular Material 8 Tutorial** - Build Navigation UI with Toolbar and Side Navigation Menu
 https://www.techiediaries.com/angular-material-navigation-toolbar-sidenav/:
+
+**Build an interface with Login and SideNav using Angular Material 8 and 7 (and Lazy Loading)**
+https://medium.com/@francesco.dstf/build-an-interface-with-login-and-sidenav-using-angular-material-7-and-lazy-loading-fb9d99813589
+
+**How to create a Modal Dialog component in Angular 8**
+https://medium.com/swlh/how-to-create-a-modal-dialog-component-in-angular-8-88028d909be0
+
+**New Angular Drag and Drop Feature — ngDragDrop**
+https://medium.com/better-programming/new-angular-drag-and-drop-feature-ngdragdrop-8bbdcaa5f737
+
+**Search by filter with autocomplete using Angular and Angular material**
+https://medium.com/@uditgogoi1/search-bar-with-autocomplete-using-angular-5-and-angular-material-c5a77a429da7
 
 **Angular Material Design Icons**
 https://material.io/resources/icons/?style=baseline
@@ -269,9 +283,21 @@ https://medium.com/angular-in-depth/how-to-avoid-angular-injectable-instances-du
 
 
 ### Angular Dependency Injection
-**What you always wanted to know about Angular Dependency Injection tree**
 
+**What you always wanted to know about Angular Dependency Injection tree**
 https://medium.com/angular-in-depth/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d
+
+**Dependency Injection - From official docs**
+https://angular.io/guide/dependency-injection 
+
+**Introduction to Services and Dependency Injection - From official docs**
+https://angular.io/guide/architecture-services 
+
+**Angular 8 Tutorial - 18 - Dependency Injection**
+https://www.youtube.com/watch?v=OFPIGlxunL0
+
+**Dependency Injection in Angular (Thoughtram Blog)**
+https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 
 
 #### Angular Debugging and error handling
@@ -958,6 +984,9 @@ https://youtu.be/2ZFgcTOcnUg
 **ngrx Data** - Simplifies management of entity data while reducing the amount of explicitness through generics and convention over configuration (with full overrides available).  Now part of the latest NGRX 8.
 https://ngrx.io/guide/data
 
+**Angular. How to Introduce Progress Bars in Your Application Using NgRx.*8
+https://itnext.io/angular-how-to-introduce-progress-bars-in-your-application-using-ngrx-abc9bf080c70
+
 **Udemy courses on NgRx and ngrx data**
 https://udemy.com/course/ngrx-course/
 https://udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
@@ -1210,20 +1239,6 @@ https://stackblitz.com/edit/angular-dynamic-style-change
 **3+ Ways to Add Bootstrap 4 to Angular 9/8 With Example & Tutorial**
 https://www.techiediaries.com/angular-bootstrap
 
-**ngx-bootstrap (supports Bootstrap 3 & 4) and does not require JQuery libraries**
-https://valor-software.com/ngx-bootstrap/#/
-
-**Using ngx-bootstrap on Stackblitz with Angular 8**
-https://medium.com/@ajdin.imsirovic/using-ngx-bootstrap-on-stackblitz-with-angular-8-cc3e9fda6e25
-
-**Additional ngx-bootstrap companion modules**
-https://github.com/valor-software/ng2-plans
-
-https://valor-software.com/ngx-bootstrap/#/documentation
-
-**What is ngx boostrap and how to use it?**
-https://www.edureka.co/blog/ngx-bootstrap/
-
 **How to use CSS to make a responsive sidebar nav layout**
 https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp
 
@@ -1350,6 +1365,9 @@ medium.com/javascript-in-plain-english/angular-7-ngx-translate-lazy-loaded-modul
 
 
 ### Angular Modules (ngModule)
+
+**Differences between Component and Module in Angular**
+https://medium.com/javascript-in-plain-english/angular-component-vs-module-b8c7347c604e
 
 **Understanding Angular modules (NgModule) and their scopes**
 https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
@@ -1855,7 +1873,8 @@ https://github.com/angular/angular/tree/master/packages/zone.js
 **What the hell is Zone.js and why is it in my Angular 2?**
 https://medium.com/@MertzAlertz/what-the-hell-is-zone-js-and-why-is-it-in-my-angular-2-6ff28bcf943e
 
-#### ng-bootstrap - Angular powered Bootstrap 
+
+#### ng-bootstrap - Angular powered Bootstrap (Bootstrap 4)
 
 https://ng-bootstrap.github.io
 
@@ -1874,6 +1893,44 @@ Safari (7+)
 **ng-bootstrap Installation**
 https://github.com/ng-bootstrap/ng-bootstrap#installation
 
+#### ngx-bootstrap - Angular powered Bootstrap (Bootstrap 3/4)
+
+**ngx-bootstrap home**
+https://valor-software.com/ngx-bootstrap/#/
+
+** Using ngx-bootstrap on Stackblitz with Angular 8**
+https://medium.com/@ajdin.imsirovic/using-ngx-bootstrap-on-stackblitz-with-angular-8-cc3e9fda6e25
+
+**ngx-bootstrap (supports Bootstrap 3 & 4) and does not require JQuery libraries**
+https://valor-software.com/ngx-bootstrap/#/
+
+**Using ngx-bootstrap on Stackblitz with Angular 8**
+https://medium.com/@ajdin.imsirovic/using-ngx-bootstrap-on-stackblitz-with-angular-8-cc3e9fda6e25
+
+** Angular 9 Calendar Tutorial with ngx-bootstrap datepicker Examples**
+https://www.positronx.io/angular-calendar-tutorial-with-ngx-bootstrap-datepicker-examples/
+
+**Additional ngx-bootstrap companion modules**
+https://github.com/valor-software/ng2-plans
+
+https://valor-software.com/ngx-bootstrap/#/documentation
+
+**What is ngx boostrap and how to use it?**
+https://www.edureka.co/blog/ngx-bootstrap/
+
+**Video 37 | Use Angular ngx-progressbar/core**
+https://youtu.be/pPvH69XJMrA
+
+**Video 38 | Using Angular ngx-alerts**
+https://www.youtube.com/watch?v=wO-mpwU78t4 
+https://github.com/mike1477/ClockItApp
+
+**Video 39 | Use Angular ngx-bootstrap**
+https://www.youtube.com/watch?v=L-6qpSq92cs 
+https://github.com/mike1477/ClockItApp
+
+**Video 42 | Install Bootswatch Theme Into Angular Application**
+https://youtu.be/TIxkFinJsTY
 
 ### Angular and GraphQL
 
@@ -2640,3 +2697,12 @@ https://www.youtube.com/watch%3Fv%3DHnNytR32Otk&rct=j&frm=1&q=&esrc=s&sa=U&ved=0
 
 **Additional Angular articles from Thomas Burleson**
 https://medium.com/@thomasburlesonIA
+
+
+### Angular Search
+
+** Angular Search & Pagination**
+https://itnext.io/angular-search-pagination-41572ef0078f
+
+**Search by filter with autocomplete using Angular and Angular material**
+https://medium.com/@uditgogoi1/search-bar-with-autocomplete-using-angular-5-and-angular-material-c5a77a429da7
