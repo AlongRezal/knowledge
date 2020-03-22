@@ -1,3 +1,9 @@
+**Table of content**
+
+- [TypeScript:](#typescript)
+      - [GlueGun](#gluegun)
+      - [TypeScript Data Types:](#typescript-data-types)
+      - 
 # TypeScript: 
 
 **TypeScript Documentation:**
