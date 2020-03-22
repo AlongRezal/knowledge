@@ -9,4 +9,4 @@ Collections of notes, links and resources I've accumulated that I have found hel
       - [Angular](https://github.com/Greggbert/knowledge/blob/master/Franeworks/Angular.md)
     - [Languages](https://github.com/Greggbert/knowledge/tree/master/Languages)
       - [Markdown](https://github.com/Greggbert/knowledge/blob/master/Languages/Markdown.md)
-      - [TypeScript](https://github.com/Greggbert/knowledge/blob/master/Languages/TypeScipt.md)
+      - [TypeScript](https://github.com/Greggbert/knowledge/blob/develop/Languages/TypeScript.md)
