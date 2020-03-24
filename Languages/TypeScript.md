@@ -140,7 +140,7 @@ https://medium.com/better-programming/introduction-to-typescript-data-types-numb
 **Understanding Enumerations:**  
 https://medium.com/angular-in-depth/understanding-enumerations-f02935d4a66c
 
-** TypeScript: Don't Export const enums:**  
+**TypeScript: Don't Export const enums:**  
 [https://ncjamieson.com/dont-export-const-enums/](https://ncjamieson.com/dont-export-const-enums/)
 
 **4 Ways to Replace “Any” in TypeScript:**  
