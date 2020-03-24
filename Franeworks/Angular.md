@@ -78,417 +78,417 @@
 
 #### Angular Material
 
-**Angular Material Pagination Datasource**
+**Angular Material Pagination Datasource**  
 [https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe](https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe)
 
-**Angular Material matInput control with thousands separator**
+**Angular Material matInput control with thousands separator**  
 [https://medium.com/angular-in-depth/angular-material-matinput-control-with-thousands-separation-ebcbb7b027f4](https://medium.com/angular-in-depth/angular-material-matinput-control-with-thousands-separation-ebcbb7b027f4)
 
-**Creating Beautiful Apps with Angular Material**
+**Creating Beautiful Apps with Angular Material**  
 [https://auth0.com/blog/creating-beautiful-apps-with-angular-material/](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
 
-**The complete guide to Angular Material Themes**
+**The complete guide to Angular Material Themes**  
 https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1
 
-**Angular, NgRx, Angular CLI & Angular Material Starter Project**
+**Angular, NgRx, Angular CLI & Angular Material Starter Project**  
 https://tomastrajan.github.io/angular-ngrx-material-starter
 https://github.com/tomastrajan/angular-ngrx-material-starter
 
-**Angular Material Data Table**
+**Angular Material Data Table**  
 https://blog.angular-university.io/angular-material-data-table/
 
-**Routing to a route (controller for instance) when a user clicks on a row in a Material Table**
+**Routing to a route (controller for instance) when a user clicks on a row in a Material Table**  
 https://stackoverflow.com/a/55793834
 
-**Angular Material Starter with Ng-Bootstrap support**
+**Angular Material Starter with Ng-Bootstrap support**  
 https://medium.com/@udbhav1995/angular-material-starter-with-ng-bootstrap-support-46bdc8de27c6
 
-**Building a news application with Angular (6) and Material Design**
+**Building a news application with Angular (6) and Material Design**  
 https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/
 
-**Getting Started With Angular Material**
+**Getting Started With Angular Material**  
 https://material.angular.io/guide/getting-started
 
-**Angular Material Table Overview**
+**Angular Material Table Overview**  
 https://material.angular.io/components/table/overview
 
-**What makes Angular Material Tables Super Cool**
+**What makes Angular Material Tables Super Cool**  
 https://medium.com/@fnote/md-tables-angular-material-be2c45947955
 
-**The complete guide to Angular Material Themes**
+**The complete guide to Angular Material Themes**  
 https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1
 
-**Angular Material 8 Tutorial** - Build Navigation UI with Toolbar and Side Navigation Menu
+**Angular Material 8 Tutorial** - Build Navigation UI with Toolbar and Side Navigation Menu**    
 https://www.techiediaries.com/angular-material-navigation-toolbar-sidenav/:
 
-**Build an interface with Login and SideNav using Angular Material 8 and 7 (and Lazy Loading)**
+**Build an interface with Login and SideNav using Angular Material 8 and 7 (and Lazy Loading)**  
 https://medium.com/@francesco.dstf/build-an-interface-with-login-and-sidenav-using-angular-material-7-and-lazy-loading-fb9d99813589
 
-**How to create a Modal Dialog component in Angular 8**
+**How to create a Modal Dialog component in Angular 8**  
 https://medium.com/swlh/how-to-create-a-modal-dialog-component-in-angular-8-88028d909be0
 
-**New Angular Drag and Drop Feature — ngDragDrop**
+**New Angular Drag and Drop Feature — ngDragDrop**  
 https://medium.com/better-programming/new-angular-drag-and-drop-feature-ngdragdrop-8bbdcaa5f737
 
-**Search by filter with autocomplete using Angular and Angular material**
+**Search by filter with autocomplete using Angular and Angular material**  
 https://medium.com/@uditgogoi1/search-bar-with-autocomplete-using-angular-5-and-angular-material-c5a77a429da7
 
-**Angular Material Design Icons**
+**Angular Material Design Icons**  
 https://material.io/resources/icons/?style=baseline
 
-**Angular Material Icons List with associated tags**
+**Angular Material Icons List with associated tags**  
 https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
 
-**Polymer Icons Demo page**
+**Polymer Icons Demo page**  
 https://www.webcomponents.org/element/@polymer/iron-icons/demo/demo/index.html
 
-**Polymer Icons GitHub**
+**Polymer Icons GitHub**  
 https://www.webcomponents.org/element/@polymer/iron-icons
 
-**Angular 6 Material SideNav Example**
+**Angular 6 Material SideNav Example**  
 https://www.devglan.com/angular/material-sidenav-example
 
 
 #### Angular Material CDK Portal
 
-The portals package provides a flexible system for rendering dynamic content into an application.
+The portals package provides a flexible system for rendering dynamic content into an application.  
 
 https://material.angular.io/cdk/portal/overview
 
-**Checking out Angular’s CDK portals**
+**Checking out Angular’s CDK portals**  
 https://itnext.io/checking-out-angulars-cdk-portals-d34bfd8a5647
 
-**Other portal approaches are discussed in this article**
+**Other portal approaches are discussed in this article**  
 https://juristr.com/blog/2018/05/dynamic-UI-with-cdk-portals/
 
-**Another article and demo code for using Material CDK Portal**
+**Another article and demo code for using Material CDK Portal**  
 https://netbasal.com/creating-powerful-components-with-angular-cdk-2cef53d81cea
 
-**Using Angular CDK Portal to create a Modal**
+**Using Angular CDK Portal to create a Modal**  
 https://medium.com/javascript-in-plain-english/using-angular-cdk-portal-to-create-a-modal-fde843428d83
 
 
 #### Angular Components 
 
-**Angular Components** - The Fundamentals (April 2019):
+**Angular Components** - The Fundamentals (April 2019):**  
 https://blog.angular-university.io/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
 
-**Angular For Beginners Guide** - Components vs Directives:
+**Angular For Beginners Guide** - Components vs Directives:**  
 https://blog.angular-university.io/angular-components-and-directives-for-beginners/
 
-**Creating Behavioral Components in Angular**
+**Creating Behavioral Components in Angular**  
 https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4
 
-**Angular Components Tips and Tricks**
+**Angular Components Tips and Tricks**  
 https://netbasal.com/angular-components-tips-and-tricks-d9e725871d58
 
-**Angular Architecture** - Smart Components vs Presentational Components:
+**Angular Architecture** - Smart Components vs Presentational Components:**  
 https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/
 
-**Angular Architecture - Container vs Presentational Components Common Design Pitfalls**
+**Angular Architecture - Container vs Presentational Components Common Design Pitfalls**  
 https://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/
 
-**Angular ngFor** - Learn all Features including trackBy, why is it not only for Arrays? (April 2019):
+**Angular ngFor** - Learn all Features including trackBy, why is it not only for Arrays? (April 2019):**   
 https://blog.angular-university.io/angular-2-ngfor/
 
-**3 ways to communicate between Angular components**
+**3 ways to communicate between Angular components**  
 https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb
 
-**How to pass a custom template to an Angular component?**
+**How to pass a custom template to an Angular component?**  
 https://blog.angulartraining.com/how-to-pass-a-custom-template-to-an-angular-component-53592d634a47
 
-**Here is what you need to know about dynamic components in Angular**
+**Here is what you need to know about dynamic components in Angular**  
 https://medium.com/angular-in-depth/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
 
-**Level Up Your Components API Using the Strategy Pattern**
+**Level Up Your Components API Using the Strategy Pattern**  
 medium.com/angular-in-depth/level-up-your-components-api-using-the-strategy-pattern-61762583a7d8
 
-**Angular ViewChild and ViewChildren**
+**Angular ViewChild and ViewChildren**  
 https://medium.com/better-programming/angular-viewchild-and-viewchildren-fde2d252b9ab
 
-**Understanding provider scope in Angular**
+**Understanding provider scope in Angular**  
 https://itnext.io/understanding-provider-scope-in-angular-4c2589de5bc
 
-**Building Custom Elements / Web Components with Angular 6**
+**Building Custom Elements / Web Components with Angular 6**  
 https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b
 
-** Component Dev Kit for Angular**
+** Component Dev Kit for Angular**  
 https://blog.angular.io/a-component-dev-kit-for-angular-9f06e3b4b3b4
 
-**Understanding ViewChildren, ContentChildren, and QueryList in Angular**
+**Understanding ViewChildren, ContentChildren, and QueryList in Angular**  
 https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e
 
-**Accessibility Made Easy with Angular CDK**
+**Accessibility Made Easy with Angular CDK**  
 https://netbasal.com/accessibility-made-easy-with-angular-cdk-1caaf3d98de2
 
-**Container Components with Angular**
+**Container Components with Angular**  
 https://medium.com/angular-in-depth/container-components-with-angular-11e4200f8df
 
-**Improving Angular *ngFor Performance Through trackBy**
+**Improving Angular *ngFor Performance Through trackBy**  
 https://medium.com/better-programming/improving-angular-ngfor-performance-through-trackby-ae4cf943b878
 
-**Learn how to Drag and Drop items in Angular 7**
+**Learn how to Drag and Drop items in Angular 7**  
 https://medium.com/codetobe/learn-how-to-drag-drop-items-in-angular-7-20395c262ab0
 
-**ngular: Effective Component Patterns**
+**ngular: Effective Component Patterns**  
 https://itnext.io/angular-effective-component-patterns-f5f7f08e2072
 
-**Create Advanced Components in Angular**
+**Create Advanced Components in Angular**  
 https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6
 
-**Angular Optimization** - Memoized pipe functions in templates:
+**Angular Optimization** - Memoized pipe functions in templates:**  
 https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a
 
-**Understanding Content Projection in Angular**
+**Understanding Content Projection in Angular**  
 https://medium.com/better-programming/understanding-content-projection-in-angular-81c9a40d63dc
 
-**Dynamic imports solve all the problems, right?**
+**Dynamic imports solve all the problems, right?**  
 https://blog.mgechev.com/2019/05/11/dynamic-imports-javascript/
 
-**Using the Angular Async Pipe properly**
+**Using the Angular Async Pipe properly**  
 https://malcoded.com/posts/angular-async-pipe/
 
-**Angular Effective Component Patterns**
+**Angular Effective Component Patterns**  
 https://itnext.io/angular-effective-component-patterns-f5f7f08e2072
 
-**Retrieve an image as a byte array from a REST controller and display in Angular**
+**Retrieve an image as a byte array from a REST controller and display in Angular**  
 https://stackblitz.com/edit/display-image-from-api
 
-**Another image example (Angular 6+)**
+**Another image example (Angular 6+)**  
 https://stackblitz.com/edit/angular-1yr75s
 
-**Display an image returned from REST call as BLOB as JSON**
+**Display an image returned from REST call as BLOB as JSON**  
 https://github.com/ksurendra/angular-examples/tree/master/angular-post-blob-get-thumbnail
 
-**Components vs Presentational Components**
+**Components vs Presentational Components**  
 https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/
 
-**Using Angular @ViewChild to implement multiple visualizations of data sets**
+**Using Angular @ViewChild to implement multiple visualizations of data sets**  
 https://levelup.gitconnected.com/using-angular-viewchild-to-implement-multiple-visualizations-of-data-sets-b626689938f7
 
-**How to create a reusable Modal Dialog component in Angular 8** 
+**How to create a reusable Modal Dialog component in Angular 8**   
 https://levelup.gitconnected.com/how-to-create-a-reusable-modal-dialog-component-in-angular-8-241cc738d260
 
-**Share Component Data With Other Components in Angular 9**
+**Share Component Data With Other Components in Angular 9**  
 https://medium.com/better-programming/angular-7-share-component-data-with-other-components-1b91d6f0b93f
 
-**Angular Components (tutorial)**
+**Angular Components (tutorial)**  
 https://howtodoinjava.com/angular/angular-component/
 
-**Angular Interpolation**
+**Angular Interpolation**  
 https://howtodoinjava.com/angular/angular-interpolation/
 
-**How to avoid Angular injectable instances duplication**
+**How to avoid Angular injectable instances duplication**  
 https://medium.com/angular-in-depth/how-to-avoid-angular-injectable-instances-duplication-213807c6d213
 
 
 ### Angular Dependency Injection
 
-**What you always wanted to know about Angular Dependency Injection tree**
+**What you always wanted to know about Angular Dependency Injection tree**  
 https://medium.com/angular-in-depth/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d
 
-**Dependency Injection - From official docs**
+**Dependency Injection - From official docs**  
 https://angular.io/guide/dependency-injection 
 
-**Introduction to Services and Dependency Injection - From official docs**
+**Introduction to Services and Dependency Injection - From official docs**  
 https://angular.io/guide/architecture-services 
 
-**Angular 8 Tutorial - 18 - Dependency Injection**
+**Angular 8 Tutorial - 18 - Dependency Injection**  
 https://www.youtube.com/watch?v=OFPIGlxunL0
 
-**Dependency Injection in Angular (Thoughtram Blog)**
+**Dependency Injection in Angular (Thoughtram Blog)**  
 https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 
 
 #### Angular Debugging and error handling
 
-**A Guide To Debugging Angular Applications**
+**A Guide To Debugging Angular Applications**  
 https://medium.com/@vamsivempati/a-guide-to-debugging-angular-applications-5a36bd88b4cf
 
-**Everything you need to know about debugging Angular applications**
+**Everything you need to know about debugging Angular applications**  
 https://medium.com/angular-in-depth/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
 
-**Global Error Handling with Angular2+**
+**Global Error Handling with Angular2+**  
 https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c
 
-**Expecting the Unexpected — Best practices for Error handling in Angular**
+**Expecting the Unexpected — Best practices for Error handling in Angular**  
 https://medium.com/angular-in-depth/expecting-the-unexpected-best-practices-for-error-handling-in-angular-21c3662ef9e4
 
-**How To Debug RxJs - A Simple Way For Debugging Rxjs Observables**
+**How To Debug RxJs - A Simple Way For Debugging Rxjs Observables**  
 https://blog.angular-university.io/debug-rxjs/
 
-**RxJs Error Handling: Complete Practical Guide**
+**RxJs Error Handling: Complete Practical Guide**  
 https://blog.angular-university.io/rxjs-error-handling/
 
-**Angular Debugging "Expression has changed after it was checked": Simple Explanation (and Fix)**
+**Angular Debugging "Expression has changed after it was checked": Simple Explanation (and Fix)**  
 https://blog.angular-university.io/angular-debugging/
 
-**Error Handling & Angular**
+**Error Handling & Angular**  
 https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
 
-**Angular 2+ exception handling made simple with logging**
+**Angular 2+ exception handling made simple with logging**  
 https://loggly.com/blog/angular-exception-logging-made-simple/
 
-**Angular applications -error handling and elegant recovery**
+**Angular applications -error handling and elegant recovery**  
 https://itnext.io/how-to-handle-your-run-time-errors-in-your-angular-application-8d72fefbf8a4
 
-**Retry an RxJs observable sequence on error based on custom criteria**
+**Retry an RxJs observable sequence on error based on custom criteria**  
 https://www.learnrxjs.io/learn-rxjs/operators/error_handling/retrywhen
 
-**How to send error notifications through Slack from Angular**
+**How to send error notifications through Slack from Angular**  
 https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f
 
-**Introduction to error handling in Angular 7 - Part1 - Angular Errorhandler**
+**Introduction to error handling in Angular 7 - Part1 - Angular Errorhandler**  
 https://pusher.com/tutorials/error-handling-angular-part-1
 
-**Introduction to error handling in Angular 7 - Part2 - Http error handling**
+**Introduction to error handling in Angular 7 - Part2 - Http error handling**  
 https://pusher.com/tutorials/error-handling-angular-part-2
 Code: https://github.com/viclotana/ng_HTTP
 
-**Introduction to error handling in Angular 7 - Part3 - Sentry**
+**Introduction to error handling in Angular 7 - Part3 - Sentry**  
 https://pusher.com/tutorials/error-handling-angular-part-3
 
-**Sentry**
+**Sentry**  
 https://docs.sentry.io/platforms/javascript/angular/
 
 
 ### Angular Decorators
 
-**Exploring the Various Decorators in Angular**
+**Exploring the Various Decorators in Angular**  
 https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c
 
-**@Self or @Optional @Host? The visual guide to Angular DI decorators**
+**@Self or @Optional @Host? The visual guide to Angular DI decorators**  
 https://medium.com/frontend-coach/self-or-optional-host-the-visual-guide-to-angular-di-decorators-73fbbb5c8658
 
-**Getting to Know the @Attribute Decorator in Angular**
+**Getting to Know the @Attribute Decorator in Angular**  
 https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243
 
-**Implementing custom component decorator in Angular**
+**Implementing custom component decorator in Angular**  
 https://medium.com/angular-in-depth/implementing-custom-component-decorator-in-angular-4d037d5a3f0d
 
-**Angular @ViewChild: In-Depth Explanation (All Features Covered)**
+**Angular @ViewChild: In-Depth Explanation (All Features Covered)**  
 https://blog.angular-university.io/angular-viewchild/
 
 
 ### Angular Directives
 
-**Angular Directive Selectors Can Do More Than You Think!**
+**Angular Directive Selectors Can Do More Than You Think!**  
 https://netbasal.com/angular-directive-selectors-can-do-more-than-you-think-7aefa4e6f30
 
-**The Low Down on Attribute and Structural Directives in Angular**
+**The Low Down on Attribute and Structural Directives in Angular**  
 https://medium.com/better-programming/the-low-down-on-attribute-and-structural-directives-in-angular-d6130eacaf4e?
 
-**Having fun with Structural Directives in Angular**
+**Having fun with Structural Directives in Angular**  
 https://medium.com/angular-in-depth/having-fun-with-structural-directives-in-angular-69b4d229ad93
 
-**The Power of Structural Directives in Angular**
+**The Power of Structural Directives in Angular**  
 https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1
 
-**Anatomy of Angular Attribute @Directive selector**
+**Anatomy of Angular Attribute @Directive selector**  
 https://medium.com/swlh/anatomy-of-angular-attribute-directive-selector-a1d83a73242
 
 
 ### Angular Events and event handling
 
-**Difference between Constructor and ngOnInit in Angular**
+**Difference between Constructor and ngOnInit in Angular**  
 https://medium.com/javascript-in-plain-english/difference-between-constructor-and-ngoninit-in-angular-537ecfa6ce1e
 
-**Angular Change Detection - How Does It Really Work?**
+**Angular Change Detection - How Does It Really Work?**  
 https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
 
-**Event Binding Mechanism in Angular**
+**Event Binding Mechanism in Angular**  
 https://blog.bitsrc.io/event-binding-mechanism-in-angular-b38f0e46d2ed
 
-**Event Emitters in Angular**
+**Event Emitters in Angular**  
 https://netbasal.com/event-emitters-in-angular-13e84ee8d28c
 
-**Reduce Change Detection Cycles with Event Coalescing in Angular**
+**Reduce Change Detection Cycles with Event Coalescing in Angular**  
 https://netbasal.com/reduce-change-detection-cycles-with-event-coalescing-in-angular-c4037199859f
 
-**Everything you need to know about change detection in Angular**
+**Everything you need to know about change detection in Angular**  
 https://medium.com/angular-in-depth/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f
 
-**Writing custom virtual scroll strategy**
+**Writing custom virtual scroll strategy**  
 https://medium.com/angular-in-depth/writing-custom-virtual-scroll-strategy-e6b1b2d2e1ac
 
-**Do you still think that NgZone (zone.js) is required for change detection in Angular?**
+**Do you still think that NgZone (zone.js) is required for change detection in Angular?**  
 https://medium.com/angular-in-depth/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef
 
-**These 5 articles will make you an Angular Change Detection expert**
+**These 5 articles will make you an Angular Change Detection expert**  
 https://medium.com/angular-in-depth/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930
 
-**A gentle introduction into change detection in Angular**
+**A gentle introduction into change detection in Angular**  
 https://medium.com/angular-in-depth/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10
 
-**Understanding Change Detection Strategies in Angular**
+**Understanding Change Detection Strategies in Angular**  
 https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a
 
-**Angular: Keeping the User from Losing Data by Leaving the Page Before Submit**
+**Angular: Keeping the User from Losing Data by Leaving the Page Before Submit**  
 https://medium.com/better-programming/angular-how-keep-user-from-lost-his-data-by-accidentally-leaving-the-page-before-submit-4eeb74420f0d
 
 
 ### Angular Interceptors and route/auth Guards
 
-**Angular CanActivate vs. Interceptors- A Comprehensive Guide**
+**Angular CanActivate vs. Interceptors- A Comprehensive Guide**  
 http://medium.com/better-programming/angular-vs-interceptors-guide-c256b72f3415
 
-**An Introduction to Angular HTTP Interceptors**
+**An Introduction to Angular HTTP Interceptors**  
 https://medium.com/better-programming/angular-http-interceptors-what-are-they-and-how-to-use-them-52e060321088
 
-**HTTP interceptors in Angular**
+**HTTP interceptors in Angular**  
 https://blog.angulartraining.com/http-interceptors-in-angular-61dcf80b6bdd
 
-**Insider’s guide into interceptors and HttpClient mechanics in Angular**
+**Insider’s guide into interceptors and HttpClient mechanics in Angular**  
 https://medium.com/angular-in-depth/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf
 
-**Top 10 ways to use Interceptors in Angular**
+**Top 10 ways to use Interceptors in Angular**  
 https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
 
-**How to add spinner in Http interceptor Angular (use Google translate Chrome plugin since the page is in Thai)**
+**How to add spinner in Http interceptor Angular (use Google translate Chrome plugin since the page is in Thai)**  
 https://medium.com/odds-team/how-to-add-spinner-in-http-interceptor-angular-ad14351289f5
 
 https://github.com/phatpan/angularSpinnerExample/blob/master/package.json
 
-**Top 10 ways to use Interceptors in Angular**
+**Top 10 ways to use Interceptors in Angular**  
 https://indepth.dev/top-10-ways-to-use-interceptors-in-angular/
 
 
 ### Lazy Loading: 
 
-**A Guide to Lazy Loading Modules in Angular 8**
+**A Guide to Lazy Loading Modules in Angular 8**  
 https://levelup.gitconnected.com/a-guide-to-lazy-loading-modules-in-angular-15925dfbfd7f
 
-**Angular Resolver - Pre-load data for the next component to load before it loads**
+**Angular Resolver - Pre-load data for the next component to load before it loads**  
 http://medium.com/better-programming/understanding-angular-resolver-what-was-the-problem-before-using-resolver-and-why-we-need-it-7502554ab7a3
 
-**Lazy-Loaded Feature Modules and Global Services in Angular 2**
+**Lazy-Loaded Feature Modules and Global Services in Angular 2**  
 https://medium.com/@kahlil/lazy-loading-and-global-services-in-angular-2-modulewithproviders-fa3b8cf60881
 
-**Lazy Loading Feature Modules**
+**Lazy Loading Feature Modules**  
 https://angular.io/guide/lazy-loading-ngmodules
 
-**Avoid Multiple Service Instances in Lazy Loaded Modules in Angular**
+**Avoid Multiple Service Instances in Lazy Loaded Modules in Angular**  
 https://egghead.io/lessons/angular-avoid-multiple-service-instances-in-lazy-loaded-modules-in-angular
 
-**The Need for Speed: Lazy Load Non-Routable Modules in Angular**
+**The Need for Speed: Lazy Load Non-Routable Modules in Angular**  
 https://netbasal.com/the-need-for-speed-lazy-load-non-routable-modules-in-angular-30c8f1c33093
 
-**Boost Angular’s Performance by Lazy Loading your Modules**
+**Boost Angular’s Performance by Lazy Loading your Modules**  
 https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304
 
-**Lazy Loading External JavaScript Libraries in Angular**
+**Lazy Loading External JavaScript Libraries in Angular**  
 https://codeburst.io/lazy-loading-external-javascript-libraries-in-angular-3d86ada54ec7
 
-**Lazy Loading with Angular**
+**Lazy Loading with Angular**  
 https://medium.com/javascript-in-plain-english/lazy-loading-with-angular-8aafdcfca0fc
 
-**Angular quicklink Preloading Strategy**
+**Angular quicklink Preloading Strategy**  
 https://blog.mgechev.com/2018/12/24/quicklink-angular-prefetching-preloading-strategy/
 
-**Lazy loading feature modules**
+**Lazy loading feature modules**  
 https://angular.io/guide/lazy-loading-ngmodules
 
-**Lazy loading Angular modules with Ivy**
+**Lazy loading Angular modules with Ivy**  
 https://medium.com/angular-in-depth/lazy-loading-angular-modules-with-ivy-92c3a890eae1
 
 **Code-splitting in Angular or how to share components between lazy modules**
@@ -1951,30 +1951,29 @@ https://medium.com/codingthesmartway-com-blog/apollo-client-for-angular-making-u
 
 ### Angular Documentation Tools
 
-**Codelyzer - Static analysis for Angular projects**
+**Codelyzer - Static analysis for Angular projects**  
 https://github.com/mgechev/codelyzer
 
-**Compodoc - Documentation generator for Angular projects**
+**Compodoc - Documentation generator for Angular projects**  
 https://github.com/compodoc/compodoc
 Angular 8 support with Compodoc see: https://github.com/compodoc/compodoc/issues/831
 
-**Compodoc: The Ultimate Angular Documentation**
+**Compodoc: The Ultimate Angular Documentation**  
 https://medium.com/razroo/compodoc-the-ultimate-angular-documentation-razroo-verified-f1bb1dfaf542
 
-**ngrev** - Reverse engineers an Angular project and presents component diagrams
-among other documentation:
+**ngrev** - Reverse engineers an Angular project and presents component diagrams among other documentation:  
 https://github.com/mgechev/ngrev
 
-**Effects Mapper**
+**Effects Mapper**  
 https://github.com/Riron/effects-mapper
 
-**Hads - Hey, it's another documentation server**
+**Hads - Hey, it's another documentation server**  
 https://github.com/sinedied/hads
 
 
-### Angular Books, videos and Training
+### Angular Books, videos and Training  
 
-**Angular University**
+**Angular University**  
 https://angular-university.io/
 
 **Rangle’s Angular 2+ Training Book (online)**
