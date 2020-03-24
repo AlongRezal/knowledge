@@ -79,13 +79,13 @@
 #### Angular Material
 
 **Angular Material Pagination Datasource**
-https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe
+[https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe](https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe)
 
 **Angular Material matInput control with thousands separator**
-https://medium.com/angular-in-depth/angular-material-matinput-control-with-thousands-separation-ebcbb7b027f4
+[https://medium.com/angular-in-depth/angular-material-matinput-control-with-thousands-separation-ebcbb7b027f4](https://medium.com/angular-in-depth/angular-material-matinput-control-with-thousands-separation-ebcbb7b027f4)
 
 **Creating Beautiful Apps with Angular Material**
-https://auth0.com/blog/creating-beautiful-apps-with-angular-material/
+[https://auth0.com/blog/creating-beautiful-apps-with-angular-material/](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
 
 **The complete guide to Angular Material Themes**
 https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1
@@ -1996,32 +1996,33 @@ https://medium.com/free-code-camp/want-to-learn-angular-heres-our-free-33-part-c
 ### Angular Starters
 
 **Angular and TypeScript JumpStart example application**
-https://github.com/DanWahlin/Angular-JumpStart
+[https://github.com/DanWahlin/Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
 
 **Angular real-world example app (Angular 7.2.4)**
-http://github.com/gothinkster/angular-realworld-example-app
+[http://github.com/gothinkster/angular-realworld-example-app](http://github.com/gothinkster/angular-realworld-example-app)
 
-**Angular 8 Example App + Angular CLI + Angular Universal + i18n + Firebase https://angularexampleapp.com (blocked)**
-http://github.com/Ismaestro/angular8-example-app
+**Angular 8 Example App + Angular CLI + Angular Universal + i18n + Firebase**
+[http://github.com/Ismaestro/angular8-example-app](http://github.com/Ismaestro/angular8-example-app)
 
 **Full stack starter kit** - Featuring Angular 7, Spring boot and stateless JWT authentication. https://angular-spring-starter.fanjin.ioF
-https://github.com/bfwg/angular-spring-starter
+[https://github.com/bfwg/angular-spring-starter](https://github.com/bfwg/angular-spring-starter)
 
 **Angular Seed** - (No longer maintained) Provides fast, reliable and extensible starter for the development of Angular projects.  AOT compilation and Docker support. 
-https://mgechev.github.io/angular-seed/
+[https://mgechev.github.io/angular-seed/](https://mgechev.github.io/angular-seed/)
 
 **SB Admin 2.0 project with Angular 2 and ng2-bootstrap**
-https://github.com/AngularShowcase/ng2-bootstrap-sbadmin
-http://angularshowcase.github.io/ng2-bootstrap-sbadmin/
+[https://github.com/AngularShowcase/ng2-bootstrap-sbadmin](https://github.com/AngularShowcase/ng2-bootstrap-sbadmin)
+
+[http://angularshowcase.github.io/ng2-bootstrap-sbadmin/](http://angularshowcase.github.io/ng2-bootstrap-sbadmin/)
 
 **Angular 8 + Material Design Starter**
-https://onthecode.co.uk/angular-material-starter-template-for-your-next-project/
+[https://onthecode.co.uk/angular-material-starter-template-for-your-next-project/](https://onthecode.co.uk/angular-material-starter-template-for-your-next-project/)
 
 **Angular 8 + Material Design Starter (from onthecode blog)**
-https://github.com/umutesen/angular-material-template
+[https://github.com/umutesen/angular-material-template](https://github.com/umutesen/angular-material-template)
 
 **ngx-Rocket**
-https://github.com/ngx-rocket/generator-ngx-rocket
+[https://github.com/ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
 
 **ngx-rocket** - Available task commands when generated with Web, Desktop (Electron) and Ionic (Mobile) support: 
 
@@ -2041,24 +2042,24 @@ https://github.com/ngx-rocket/generator-ngx-rocket
  $ npm run prettier: format your code automatically`                        
 
 **Angular NgRX Material Starter**
-https://tomastrajan.github.io/angular-ngrx-material-starter#/about
+[https://tomastrajan.github.io/angular-ngrx-material-starter#/about](https://tomastrajan.github.io/angular-ngrx-material-starter#/about)
 
 **Use Angular Proxy To Easily Call External APIs**
-https://medium.com/ngconf/use-proxy-to-easily-call-your-apis-during-development-2b30849939b7
+[https://medium.com/ngconf/use-proxy-to-easily-call-your-apis-during-development-2b30849939b7](https://medium.com/ngconf/use-proxy-to-easily-call-your-apis-during-development-2b30849939b7)
 
 
 ### Angular runtime configuration: 
 
 **Official docs on workspace config**
 
-https://angular.io/guide/workspace-config
+[https://angular.io/guide/workspace-config](https://angular.io/guide/workspace-config)
 
 **NPM module for dealing with runtime configuration(s)**
 
 **Angular Runtime Configuration Loader**
-https://www.npmjs.com/package/runtime-config-loader
+[https://www.npmjs.com/package/runtime-config-loader](https://www.npmjs.com/package/runtime-config-loader)
 
-https://github.com/pjlamb12/runtime-config-loader
+[https://github.com/pjlamb12/runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader)
 
 https://stackblitz.com/edit/runtime-config-loader-demo
 
