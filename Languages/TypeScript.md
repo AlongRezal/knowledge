@@ -28,6 +28,18 @@
 **Compile TypeScript to JavaScript from the command line:**  
 `tsc helloworld.ts`
 
+**TypeScript Deep Dive Book:**  
+basarat.gitbook.io/typescript/getting-started
+
+**TypeScript Deep Dive Book - Style Guide (Coding Standards):**  
+basarat.gitbook.io/typescript/styleguide
+
+**AirBNB JavaScript Coding Standards:**  
+github.com/airbnb/javascript
+
+**TypeScript style guide used internally at Platypi:**  
+github.com/Platypi/style_typescript
+
 **TypeScript 11 tips and tricks:**  
 [https://medium.com/@tomsu/typescript-tips-tricks-c8fdef998d50](https://medium.com/@tomsu/typescript-tips-tricks-c8fdef998d50)
 

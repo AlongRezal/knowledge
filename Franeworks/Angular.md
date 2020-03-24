@@ -354,6 +354,9 @@ https://docs.sentry.io/platforms/javascript/angular/
 
 ### Angular Decorators
 
+**Decorator’s runtime order:**  
+https://codeburst.io/decorators-runtime-order-c7f0d62df19d
+
 **Exploring the Various Decorators in Angular**  
 https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c
 
@@ -858,6 +861,9 @@ https://itnext.io/angular-universal-caching-transferstate-96eaaa386198
 
 **Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?**  
 https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
+
+**Angular 8 - User Registration and Login Example & Tutorial with state management:**   
+https://jasonwatmore.com/post/2019/06/10/angular-8-user-registration-and-login-example-tutorial
 
 
 #### Angular State Management (Akita):
