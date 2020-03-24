@@ -754,7 +754,14 @@ https://angular.io/tutorial/toh-pt5
 **ngx-quicklink** - Quicklink prefetching strategy for the Angular router
 https://github.com/mgechev/ngx-quicklink
 
+**Angular 4 advanced routing demo**
+https://stackblitz.com/edit/routing-angular
 
+**Angular 8 demo app showing both routing and role-based authorization**
+https://stackblitz.com/edit/angular-8-role-based-authorization-example
+
+
+12:08 PM
 ### Angular Security: 
 
 **JWT: The Complete Guide to JSON Web Tokens**
